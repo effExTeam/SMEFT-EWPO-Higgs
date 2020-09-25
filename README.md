@@ -4,7 +4,7 @@ Following files are available in this Github repository:
 
 1. BSM Lagrangians implemented to CoDEx for generating Wilson coeffecients.
 
-2. Wilson coefficients generated from CoDEx constrained using Optex.
+2. Wilson coefficients generated from CoDEx constrained using OptEx.
 
 
 ## Package URLs:
