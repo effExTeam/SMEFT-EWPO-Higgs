@@ -1,11 +1,4 @@
+(* ::Package:: *)
+
 (* Created with the Wolfram Language : www.wolfram.com *)
-{{cA, m\[Phi], \[Kappa], \[Lambda]\[Phi], \[Mu]}, 
- {{"qH", -(cA^2*\[Kappa])/(2*m\[Phi]^4) - \[Kappa]^3/(192*m\[Phi]^2*Pi^2) - 
-    (cA^2*\[Kappa]*\[Lambda]\[Phi])/(32*m\[Phi]^4*Pi^2) + 
-    (cA^3*\[Mu])/(6*m\[Phi]^6) - (cA*\[Kappa]^2*\[Mu])/(64*m\[Phi]^4*Pi^2) + 
-    (cA^3*\[Lambda]\[Phi]*\[Mu])/(48*m\[Phi]^6*Pi^2) + 
-    (cA^2*\[Kappa]*\[Mu]^2)/(32*m\[Phi]^6*Pi^2) - 
-    (cA^3*\[Mu]^3)/(96*m\[Phi]^8*Pi^2)}, 
-  {"qHbox", -cA^2/(2*m\[Phi]^4) - \[Kappa]^2/(384*m\[Phi]^2*Pi^2) - 
-    (cA^2*\[Lambda]\[Phi])/(32*m\[Phi]^4*Pi^2) - (5*cA*\[Kappa]*\[Mu])/
-     (192*m\[Phi]^4*Pi^2) + (11*cA^2*\[Mu]^2)/(384*m\[Phi]^6*Pi^2)}}}
+{{c\[ScriptCapitalS]a,m\[ScriptCapitalS],\[Kappa]\[ScriptCapitalS],\[Lambda]\[ScriptCapitalS],\[Mu]\[ScriptCapitalS]},{{"qH",-((c\[ScriptCapitalS]a^2 \[Kappa]\[ScriptCapitalS])/(2 m\[ScriptCapitalS]^4))-\[Kappa]\[ScriptCapitalS]^3/(192 m\[ScriptCapitalS]^2 \[Pi]^2)-(c\[ScriptCapitalS]a^2 \[Kappa]\[ScriptCapitalS] \[Lambda]\[ScriptCapitalS])/(32 m\[ScriptCapitalS]^4 \[Pi]^2)+(c\[ScriptCapitalS]a^3 \[Mu]\[ScriptCapitalS])/(6 m\[ScriptCapitalS]^6)-(c\[ScriptCapitalS]a \[Kappa]\[ScriptCapitalS]^2 \[Mu]\[ScriptCapitalS])/(64 m\[ScriptCapitalS]^4 \[Pi]^2)+(c\[ScriptCapitalS]a^3 \[Lambda]\[ScriptCapitalS] \[Mu]\[ScriptCapitalS])/(48 m\[ScriptCapitalS]^6 \[Pi]^2)+(c\[ScriptCapitalS]a^2 \[Kappa]\[ScriptCapitalS] \[Mu]\[ScriptCapitalS]^2)/(32 m\[ScriptCapitalS]^6 \[Pi]^2)-(c\[ScriptCapitalS]a^3 \[Mu]\[ScriptCapitalS]^3)/(96 m\[ScriptCapitalS]^8 \[Pi]^2)},{"qHbox",-(c\[ScriptCapitalS]a^2/(2 m\[ScriptCapitalS]^4))-\[Kappa]\[ScriptCapitalS]^2/(384 m\[ScriptCapitalS]^2 \[Pi]^2)-(c\[ScriptCapitalS]a^2 \[Lambda]\[ScriptCapitalS])/(32 m\[ScriptCapitalS]^4 \[Pi]^2)-(5 c\[ScriptCapitalS]a \[Kappa]\[ScriptCapitalS] \[Mu]\[ScriptCapitalS])/(192 m\[ScriptCapitalS]^4 \[Pi]^2)+(11 c\[ScriptCapitalS]a^2 \[Mu]\[ScriptCapitalS]^2)/(384 m\[ScriptCapitalS]^6 \[Pi]^2)}}}
