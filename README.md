@@ -2,7 +2,7 @@
 
 This repository presents the supplementary material of the article arxiv:{put here}. 
 
-2D posteriors and the tri-plots (with correlations) for all the BSM scenarios are shown. The SMEFT matching result generation for most general gauge-invariant BSM Lagrangians (using CoDEx) is demonstrated. The Bayesian fit results for all the models using OptEx are provided. The inference of 2D posteriors using the Bayesian fit results and the SMEFT matching results are illustrated.
+2D posteriors and the tri-plots (with correlations) for all the BSM scenarios are shown. The SMEFT matching result generation for most general gauge-invariant BSM Lagrangians (using CoDEx) is demonstrated. The Bayesian fit results for all the models using OptEx are provided. The inference of 2D posteriors using the Bayesian fit results and the SMEFT matching results are illustrated. We provide here all the necessary information to independently reproduce all the results brought up in the article.
 
 Following files/folders are available in this repository:
 
