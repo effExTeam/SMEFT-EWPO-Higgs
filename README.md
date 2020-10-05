@@ -2,7 +2,7 @@
 
 This repository presents the supplementary material of the article arxiv:{put here}. 
 
-2D posteriors and the tri-plots (with correlations) for all the BSM scenarios are shown here. The procedure of generating SMEFT matching results using CoDEx is demonstrated. The Bayesian fit results for all the models using OptEx are provided. The inference of 2D posteriors using the Bayesian fit results and the SMEFT matching results are demonstrated.
+2D posteriors and the tri-plots (with correlations) for all the BSM scenarios are shown. The SMEFT matching result generation using CoDEx is demonstrated. The Bayesian fit results for all the models using OptEx are provided. The inference of 2D posteriors using the Bayesian fit results and the SMEFT matching results are illustrated.
 
 Following files/folders are available in this repository:
 
