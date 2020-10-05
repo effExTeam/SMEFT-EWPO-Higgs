@@ -10,8 +10,10 @@ The utility of files/folders available in this repository:
 
 2. Parameter-fits.nb and OptEx.m : The SMEFT Wilson coefficients and the EWPO & the Higgs observables are implemented to OptEx (see source [OptEx](https://github.com/FlavorIITG/OptexDocs)), to extract allowed parameter space using inference method based on Bayesian framework. We demonstrate the steps to deduce the allowed parameter space (2D posteriors) for example models in 'Parameter-fits.nb'.
 
-3. OptExMCRuns and wcs : Bayesian fit results for all the eleven BSM scenarios considered in the article are present in 'OptExMCRuns'. The Wilson coefficients obtained from the SMEFT matching is present in 'wcs' folder.
+3. 2D-posteriors : We keep all possible 2D posterior plots in this folder, categorizing the plots into six sub-folders for the six classes mentioned in the article.
 
-4. 2D-posteriors : We keep all possible 2D posterior plots in this folder, categorizing the plots into six sub-folders for the six classes mentioned in the article.
+4. tri-plots : The marginalized one- and two-dimensional posteriors along with the correlations are present in 'tri-plots' folder.
 
-5. tri-plots : The marginalized one- and two-dimensional posteriors along with the correlations are present in 'tri-plots' folder.
+5. OptExMCRuns and wcs : Bayesian fit results for all the eleven BSM scenarios considered in the article are present in 'OptExMCRuns'. The Wilson coefficients obtained from the SMEFT matching is present in 'wcs' folder.
+
+6. CustomPlotFunctions.m : Custom Mathematica functions are enclosed in this file, which aids the illustrations in 'Parameter-fits.nb'.
