@@ -11,3 +11,5 @@ Following files/folders are available in this repository:
 2. OptEx.m, wcs, OptExMCRuns, and Parameter-fits.nb : The SMEFT Wilson coefficients are implemented to OptEx (see source [OptEx](https://github.com/FlavorIITG/OptexDocs)), to extract allowed parameter space using inference method based on Bayesian framework. The updated EWPO and Higgs data are used to constrain the Wilson coefficients. The fit results are available in the folder 'OptExMCRuns'. The Wilson coefficients obtained from the SMEFT matching is present in 'wcs' folder. Using these, we determine the allowed parameter space (2D posteriors). The complete procedure is demonstrated in 'Parameter-fits.nb'.
 
 3. 2D-posteriors : We keep all possible 2D posterior plots in this folder, categorizing the plots into six sub-folders for the six classes mentioned in the article.
+
+4. tri-plots : The marginalized one- and two-dimensional posteriors are shown with the correlations.
