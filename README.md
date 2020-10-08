@@ -1,4 +1,4 @@
-# EFT and Bayesian Statistics: laying the platform to compare BSMs
+# A Step Towards Model Comparison: Connecting Electroweak-Scale Observables to BSM through EFT and Bayesian Statistics
 
 This repository presents the supplementary material of the article arxiv:{put here}. 
 
