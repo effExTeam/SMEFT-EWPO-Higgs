@@ -1,6 +1,6 @@
 # A Step Towards Model Comparison: Connecting Electroweak-Scale Observables to BSM through EFT and Bayesian Statistics
 
-This repository presents the supplementary material of the article arxiv:{put here}. 
+This repository presents the supplementary material of the article [arxiv:2010.04088](https://arxiv.org/pdf/2010.04088.pdf). 
 
 2D posteriors and the tri-plots (with correlations) for all the BSM scenarios are shown. The SMEFT matching result generation for most general gauge-invariant BSM Lagrangians (using CoDEx) is demonstrated. The Bayesian fit results for all the models using OptEx are provided. The inference of 2D posteriors using the Bayesian fit results and the SMEFT matching results are illustrated. We provide here all the necessary information to independently reproduce the results brought up in the article.
 
